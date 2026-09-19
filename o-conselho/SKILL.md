@@ -7,7 +7,7 @@ metadata:
   author: Luiz Henrique Alves (@luizalves.me)
   version: "1.0"
   inspired-by: "5 Conselheiros, de Tedson Santos (@tedsonsantos_, MIT), e LLM Council, de Andrej Karpathy"
-  repository: https://github.com/luizhenrique-pixel/conselho-imperio
+  repository: https://github.com/luizhenrique-pixel/o-conselho
 ---
 
 # O Conselho
